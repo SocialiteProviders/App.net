@@ -1,10 +1,10 @@
 # App.net OAuth2 Provider for Laravel Socialite
 
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/SocialiteProviders/App.net.svg?style=flat-square)](https://scrutinizer-ci.com/g/SocialiteProviders/App.net/?branch=master)
-[![Latest Stable Version](https://img.shields.io/packagist/v/socialiteproviders/app.net.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/app.net)
-[![Total Downloads](https://img.shields.io/packagist/dt/socialiteproviders/app.net.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/app.net)
-[![Latest Unstable Version](https://img.shields.io/packagist/vpre/socialiteproviders/app.net.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/app.net)
-[![License](https://img.shields.io/packagist/l/socialiteproviders/app.net.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/app.net)
+[![Latest Stable Version](https://img.shields.io/packagist/v/socialiteproviders/appnet.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/appnet)
+[![Total Downloads](https://img.shields.io/packagist/dt/socialiteproviders/appnet.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/appnet)
+[![Latest Unstable Version](https://img.shields.io/packagist/vpre/socialiteproviders/appnet.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/appnet)
+[![License](https://img.shields.io/packagist/l/socialiteproviders/appnet.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/appnet)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

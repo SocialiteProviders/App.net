@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\AppNet;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
